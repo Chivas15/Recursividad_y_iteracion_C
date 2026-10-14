@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Recursividad_y_iteracion_C/Recursividad_y_iteracion_C.vcxproj" />
+</Solution>
