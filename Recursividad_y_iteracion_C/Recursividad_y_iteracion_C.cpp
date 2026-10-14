@@ -10,7 +10,7 @@ int sumaRecursiva(int n) // solucion recursiva
 	if (n <= 9)
 		return n;
 	else
-		return sumaRecursiva(n / 10) + n & 10;
+		return sumaRecursiva(n / 10) + n % 10;
 }
 
 int sumaIterativa(int n) // solucion iterativa
